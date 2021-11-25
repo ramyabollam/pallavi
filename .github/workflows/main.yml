@@ -34,7 +34,6 @@ jobs:
           path: /home/runner/work/pallavi
   codetest:
      runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
         
